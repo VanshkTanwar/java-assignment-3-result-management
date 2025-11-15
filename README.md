@@ -12,13 +12,5 @@ validates input using custom checked exception `InvalidMarksException`, calculat
 - Stores multiple students in an array.
 - Simple interactive console menu.
 
-## How to run
-1. Compile:
-   `javac InvalidMarksException.java Student.java ResultManager.java`
-2. Run:
-   `java ResultManager`
 
-## Notes
-- This implementation uses arrays (capacity = 100). You can change capacity in `main`.
-- Understand and rewrite parts in your own words before submission to adhere to academic policies.
 
